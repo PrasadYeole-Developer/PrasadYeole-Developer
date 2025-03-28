@@ -1,6 +1,6 @@
 # 👋 I'm Prasad Yeole, Full Stack Web Developer : 
 
-![Profile Banner](https://i.imgur.com/4QUHTge.png)
+![Profile Banner](https://i.imgur.com/KnJysUt.png)
 
 ## - About Me  
 A Passionate **Web Developer** skilled in **HTML, CSS, SCSS, JavaScript, React**, and animation libraries like **GSAP, Locomotive Scroll, and ScrollTrigger**.  
