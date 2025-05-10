@@ -1,4 +1,4 @@
-# 👋 I'm Prasad Yeole, Full Stack Web Developer :  
+# 👋 I'm Prasad Yeole, Full Stack Web Developer :    
 
    
 ![Profile Banner](https://i.imgur.com/KnJysUt.png)
